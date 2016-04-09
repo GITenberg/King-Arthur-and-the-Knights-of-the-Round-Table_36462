@@ -1,0 +1,50 @@
+_repo: King-Arthur-and-the-Knights-of-the-Round-Table_36462
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 36462/36462-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Malory, Thomas, Sir
+    deathdate: 1471
+    gutenberg_agent_id: '573'
+    url: http://www.gutenberg.org/2009/agents/573
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Malory
+  editor:
+    agent_name: Holland, Rupert Sargent
+    aliases:
+    - Holland, Rupert S. (Rupert Sargent)
+    - Holland, R. S. (Rupert Sargent)
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '26423'
+    url: http://www.gutenberg.org/2009/agents/26423
+description: ''
+gutenberg_bookshelf: Arthurian Legends
+gutenberg_issued: '2011-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arthurian romances'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'The coming of Arthur and the founding of the Round Table: Merlin
+  foretells the birth of Arthur. The crowing of Arthur and the sword Excalibur. Arthur
+  drives the Saxons from his realm. The King''s many and great adventures. Sir Balin
+  fights with his brother, Sir Balan. The marriage of Arthur and Guinevere and the.
+  founding of the Round Table. The adventure of Arthur and Sir Accolon of Gaul. Arthur
+  is crowned Emperor at Rome. Sir Gawain and the maid with the narrow sleeves -- The
+  champions of the Round Table: The adventures of Sir Lancelot. The adventures of
+  Sir Beaumains or Sir Gareth. The adventures of Sir Tristram -- Sir Galahad and the
+  quest of the Holy Grail: The knights go to seek the grail -- The passing of Arthur:
+  Sir Lancelot and the fair Elaine. The war between Arthur and Lancelot and the passing
+  of Arthur.'
+title: King Arthur and the Knights of the Round Table
+url: http://www.gutenberg.org/ebooks/36462
