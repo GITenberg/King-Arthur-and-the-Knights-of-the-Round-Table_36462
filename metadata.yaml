@@ -1,10 +1,8 @@
 _repo: King-Arthur-and-the-Knights-of-the-Round-Table_36462
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 36462/36462-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 36462-h/images/cover.jpg
 creator:
   author:
     agent_name: Malory, Thomas, Sir
@@ -22,6 +20,8 @@ creator:
     gutenberg_agent_id: '26423'
     url: http://www.gutenberg.org/2009/agents/26423
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36462#King-Arthur-and-the-Knights-of-the-Round-Table
 gutenberg_bookshelf: Arthurian Legends
 gutenberg_issued: '2011-06-18'
 gutenberg_type: Text
